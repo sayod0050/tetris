@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Block Drop</string>
+    <string name="play">Play</string>
+    <string name="mode_classic">Classic</string>
+    <string name="mode_sprint">Sprint (40 Lines)</string>
+    <string name="mode_time_attack">Time Attack</string>
+    <string name="mode_zen">Zen Mode</string>
+    <string name="mode_challenge">Challenge Mode</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="restart">Restart</string>
+    <string name="settings">Settings</string>
+    <string name="statistics">Statistics</string>
+    <string name="how_to_play">How to Play</string>
+    <string name="about">About</string>
+    <string name="game_over">Game Over</string>
+    <string name="score">Score</string>
+    <string name="lines">Lines</string>
+    <string name="level">Level</string>
+    <string name="hold">HOLD</string>
+    <string name="next">NEXT</string>
+    <string name="combo">Combo</string>
+</resources>
